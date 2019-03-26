@@ -5,6 +5,6 @@
         Edit a certain entry in the matrix
         Search for a substring in the entire matrix
    
-   @java version: 1.8.0
-   @author: Aron Vibar
-   @date : 11/Feb/2019
+   @java version: 1.8.0__
+   @author: Aron Vibar__
+   @date : 11/Feb/2019__
